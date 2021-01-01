@@ -72,7 +72,7 @@ defaultContextMenu.registerFor(circle);
 defaultContextMenu.registerFor(marker);
 ```
 
-Use `gmaps-context-menu` or make different context menus for different elements. If you don't register the context menu for a map element it will not appear on right click.
+Use `gmaps-context-menu` to make different context menus for different elements. If you don't register the context menu for a map element it will not appear on right click. Though, you don't want multiple menus registered to open for the same map or they will all open at the same place. An additional parameter on the non-map context menus can turn that off.
 
 ```js
 const mapContextMenu = new GmapsContextMenu(map, {
