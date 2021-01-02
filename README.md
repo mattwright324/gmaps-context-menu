@@ -16,6 +16,10 @@ Simply add the css and js to your site and it is ready to go!
 <script type="text/javascript"  src="js/gmaps-context-menu.js"></script>
 ```
 
+## Documentation
+
+Go to the [Wiki](https://github.com/mattwright324/gmaps-context-menu/wiki/GmapsContextMenu) for detailed documentation about the `GmapsContextMenu`.
+
 ## Code examples
 
 With your map and markers, circles, shapes...
