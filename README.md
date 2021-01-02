@@ -5,16 +5,16 @@ Create context menus for Google Maps maps, markers, or shapes. Looks exactly lik
 
 Simply add the css and js to your site and it is ready to go!
 
+```html
+<link rel="stylesheet" href="css/gmaps-context-menu.css" />
+<script type="text/javascript"  src="js/gmaps-context-menu.js"></script>
+```
+
 ### Features
 - Easily customizable
 - Supports multiple context menus for different elements
 - Looks almost exactly like Google Maps context menus
 - Show or hide context menu items with a condition
-
-```html
-<link rel="stylesheet" href="css/gmaps-context-menu.css" />
-<script type="text/javascript"  src="js/gmaps-context-menu.js"></script>
-```
 
 ## Documentation
 
