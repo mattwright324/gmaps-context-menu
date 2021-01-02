@@ -90,6 +90,7 @@ const mapContextMenu = new GmapsContextMenu(map, {
                 // insert your code here
             }
         }
+    ]
 });
 
 const circleContextMenu = new GmapsContextMenu(map, {
@@ -104,6 +105,7 @@ const circleContextMenu = new GmapsContextMenu(map, {
                 // insert your code here
             }
         }
+    ]
 });
 circleContextMenu.registerFor(circle);
 
@@ -119,6 +121,7 @@ const markerContextMenu = new GmapsContextMenu(map, {
                 // insert your code here
             }
         }
+    ]
 });
 markerContextMenu.registerFor(marker);
 ```
